@@ -84,7 +84,6 @@ python demo_mcp.py                     # client MCP : liste et appelle les outil
 npx @modelcontextprotocol/inspector python mcp_server.py   # inspection (Node.js)
 ```
 
-`app_streamlit_native.py` est une version 100 % Streamlit (composants natifs).
 
 Variables d'environnement (toutes optionnelles, voir `.env.example`) :
 
