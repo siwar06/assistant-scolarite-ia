@@ -1,0 +1,33 @@
+﻿# Environnement Python
+.venv/
+venv/
+
+# Variables et informations privÃ©es
+.env
+.env.*
+!.env.example
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Configuration locale
+.vscode/
+
+# Base de donnÃ©es locale
+chroma_db/
+
+# Secrets Streamlit
+.streamlit/secrets.toml
+
+# Demandes enregistrÃ©es en mode dÃ©monstration
+demandes_envoyees/
+
+# Sauvegardes et rÃ©sultats intermÃ©diaires
+*_backup.py
+*-backup
+*.encoding-backup
+*.search-backup
+*_partiel.*
+*_initial.*
+reponses_ko.txt

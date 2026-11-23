@@ -1,0 +1,31 @@
+ISET CHARGUIA
+CALENDRIER DES EXAMENS - SESSION JANVIER 2027
+
+MODULE : Algorithmique
+Examen : 05/01/2027 à 09h00
+Lieu : Amphithéâtre A
+Rattrapage : 13/01/2027 à 14h00
+Lieu du rattrapage : Salle B10
+
+MODULE : Bases de données
+Examen : 08/01/2027 à 09h00
+Lieu : Amphithéâtre A
+Rattrapage : 15/01/2027 à 09h00
+Lieu du rattrapage : Salle B12
+
+MODULE : Réseaux
+Examen : 11/01/2027 à 09h00
+Lieu : Amphithéâtre B
+Rattrapage : 18/01/2027 à 09h00
+Lieu du rattrapage : Salle B14
+
+MODULE : Anglais
+Examen : 12/01/2027 à 14h00
+Lieu : Salle B11
+Rattrapage : 19/01/2027 à 10h00
+Lieu du rattrapage : Salle B11
+
+MODULE : Projet de fin de module
+Date de remise : 20/01/2027
+Évaluation : Projet uniquement
+Rattrapage : Aucun
